@@ -20,3 +20,7 @@ Look at slack for contact info and links
 
 
 5/29 - Added repository for Treehouse workspaces to use in Codeanywhere
+
+6/5 - Try out sketch and framer
+
+-Try updating CSS for Hangman
